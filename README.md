@@ -12,7 +12,7 @@ Wohler-b series can be used with Athena-A-2ET (2stages) or Athena-A-1ET (1 stage
 https://ohwr.org/cern_ohl_p_v2.pdf
 
 Any further fork and/or modification must bear the following Notice as per chapter 1.6 of Definition of the OHL-P :
-"Acknoledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, David Brotherton-Ratcliffe, Aleksey Zaitsevsky, Renaud-Pierre Blanpain, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Frédéric Pudleitner, Gilles Coïa  "
+"Acknowledgement of the Original Authors: Neva-Aero and the Human Team Members between 2013 and 2022 : F.M. Robert Vergnes, David Brotherton-Ratcliffe, Aleksey Zaitsevsky, Renaud-Pierre Blanpain, Anthony Gambus, Tal Stokes, Valentin Bertrand, Tomas Valaitis, Louis Fourdan, Elie de Fonclare, Frédéric Pudleitner, Gilles Coïa  "
 
 
 # About using this repository
