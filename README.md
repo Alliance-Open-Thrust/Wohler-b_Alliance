@@ -7,7 +7,7 @@ This is the repository for the Alliance Edition Release of the community of make
 Wohler-b series can be used with Athena-A-2ET (2stages) or Athena-A-1ET (1 stage) electric turbines (Electric Ducted Fans (EDF))
 
 
-# THE LICENSE IS CERN-OHL-P (Permissive) V2
+# THE LICENCE IS CERN-OHL-P (Permissive) V2
 ![image](https://github.com/Alliance-Open-Thrust/Athena-A-2ET-1.64_Alliance/assets/24481026/a52f917a-47ed-49f7-9073-155290a58159)
 https://ohwr.org/cern_ohl_p_v2.pdf
 All this repository is under CERN Open Hardware Licence Version 2 - Permissive.
